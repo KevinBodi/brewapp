@@ -1,4 +1,4 @@
-/* TEAM */
+/* ORIGINAL CODE */
 
 Developer: Ellison Leão 
 Site: https://ellisonleao.github.io, https://github.com/ellisonleao
@@ -11,3 +11,17 @@ Last Update: 2014/03/06
 Standards: HTML5, CSS3
 Components: MelonJS, jQuery
 Software: VIM, Photoshop
+
+/* NEW CODE */
+
+Developer: Maria's secret santa
+Location: Somewhere between Oslo and the North Pole
+
+/* MUSIC */
+
+FeSTV FRLiX: Shane Ivers, https://www.silvermansound.com
+
+/* TEXTURES */
+
+Cloud Tileset.png: ohnoponogames, https://ohnoponogames.itch.io/retro-cloud-tileset
+Pixel Tree: Davide Pesce, https://www.davidepesce.com/2020/03/26/nature-pixel-art-tutorial-1-simple-tree/
