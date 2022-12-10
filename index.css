@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 body {
-  background-color: #0099cc;
-  color: #fff;
+  background-color: #FFFFFF;
+  color: #000;
 
   /* Allow mouse dragging. */
   -moz-user-select: none;
@@ -41,12 +43,9 @@ body {
 }
 
 @font-face {
-  font-family: 'gamefont';
-  src: url('data/css/gamefont.eot');
-  src: url('data/css/gamefont.eot?#iefix') format('embedded-opentype'),
-     url('data/css/gamefont.woff') format('woff'),
-     url('data/css/gamefont.ttf') format('truetype'),
-     url('data/css/gamefont.svg#gamefont') format('svg');
+  font-family: 'Press Start 2P', cursive;;
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'),
+  url('data/css/Press_Start_2P.ttf') format('truetype'),
   font-weight: normal;
   font-style: normal;
 }
